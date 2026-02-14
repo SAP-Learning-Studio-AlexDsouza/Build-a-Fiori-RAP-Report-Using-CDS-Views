@@ -47,7 +47,7 @@ This project is suitable for:
 ## 📺 Video Tutorial
 
 A complete step-by-step explanation is available on the **SAP learning studio** YouTube channel.
-
+https://www.youtube.com/watch?v=6WJLD2fi3j8
 ---
 
 ## 📜 License
