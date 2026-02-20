@@ -1,6 +1,9 @@
 SAP RAP Fiori Report built using CDS Interface View, Consumption View, Metadata Extension, Service Definition, and OData V4 Service Binding.
 ---
 
+<img width="2752" height="1495" alt="unnamed (1)" src="https://github.com/user-attachments/assets/ce9097b1-68bf-43ce-bcde-a713ce30dea3" />
+
+
 ## 🎯 Key Concepts Demonstrated
 
 - Clean RAP layered architecture
